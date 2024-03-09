@@ -1,0 +1,9 @@
+torch==2.0.0
+streamlit
+pdfminer.six
+langchain
+python-dotenv
+faiss-cpu
+huggingface_hub
+InstructorEmbedding 
+sentence-transformers==2.2.2
